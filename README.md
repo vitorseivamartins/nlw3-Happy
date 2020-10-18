@@ -29,6 +29,14 @@
 - Listar casas de acolhimento institucional cadastradas no mapa;
 - Detalhar as informações de casas de acolhimento institucional para visitas.
 
+### The extra mile
+Implementação de uma toogle para seleção de tema escuro na tela principal (Landing) na versão web. A opção é armazenada na localStorage e propagada para as outras páginas.
+
+**Web dark mode**:
+![](./.github/dark-theme-web.gif)
+
+</br>
+
 ## Instalação
 O pacote de gerenciamento utilizado para a instalação é o [Yarn](https://yarnpkg.com/). Em sua linha de comando:
 
